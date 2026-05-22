@@ -1,0 +1,39 @@
+What is NestJs?
+
+- A progressive Node.js framework for building efficient and scalable server-side applications.
+- Built with TypeScript and heavily inspired by Angular.
+- Uses modular architecture for better organization.
+
+Why we need NestJs?
+
+- To simplify backend development using modern architecture.
+- Provides a structured way to build scalable and testable applications.
+- Solves the limitations of traditional Express apps.
+
+Express is Unopinionated structure = mane jemne mon chai temne code koro. flexibility onk. but structure nai. codebase boro hoile onk somossai pora lagee.
+
+Nestjs eii somossa ta ii somadan korse. amra tader structure wise code lekmu. Built in support onk. Nestjs opinionated framework.
+
+Benifits of NestJs:-
+
+- Fully supports TypeScript.
+- Built-in Dependency Injection system.
+- Easy integration with databases, WebSockets, GraphQL, and microservices.
+- Scalable and maintainable codebase.
+- Active and growing community support.
+
+In This Course, You Will Learn
+- Beginner to Advanced Concepts.
+- Interview Question Preparation.
+- Real-world scenarios and use-cases.
+- Source Code Included.
+
+What I Want?
+All I ask is one small favor Just share this playlist on your social media platforms so that no one has to spend money on paid courses anymore!
+
+This playlist gives you:
+- High-quality content
+- Real-life practical examples
+- Completely free, full of value
+
+

@@ -1,0 +1,12 @@
+How to install NestJs?
+
+We will follow the official nestjs documentation.
+
+In computing, the full form of CLI is Command-Line Interface.
+
+npm i -g @nestjs/cli
+
+Install globally nestjs.
+
+
+

@@ -1,0 +1,7 @@
+Interview Questions?
+
+1) What is package-lock.json vs package.json in nestjs and what are the difference?
+=> package.json define project  structure and commands, details pai. package-lock.json aa amr project er sb dependencies gula details pai. every package er details er details pai.
+
+2) node_modules vs package.json vs package-lock.json kon ta sb thike vesi important?
+=> sb thike important package.json
