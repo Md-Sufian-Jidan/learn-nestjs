@@ -1,0 +1,35 @@
+Video 5 er code video 4 er folder aa leksi.
+
+What are Services?
+
+-> A TypeScript class with logic like calculations, data access, etc.
+-> Used to write business logic in a clean and reusable way.
+-> They are marked with @Injectable() so NestJS can use them.
+
+Why we use services?
+
+-> To separate logic from controllers.
+-> Makes code modular, clean, and testable.
+-> Services can be reused in multiple places.
+-> Helps keep your app organized and scalable.
+
+Important Points:-
+
+-> Always use @Injectable() decorator on services.
+-> Inject services into controllers using constructor injection.
+-> Services are part of the Dependency Injection system.
+-> Logic like fetching data, calculations, or API calls goes inside services.
+
+Interview question:
+- What is Dependency Injection system.
+
+Command to generate the services:
+-> nest g service product
+
+ @Get(":id")
+    getProductById(@Param("id") id: string) {
+        return this.productService.getProductById(Number(id));
+    }
+
+
+@Param === catch's the dynamic parameter as string.

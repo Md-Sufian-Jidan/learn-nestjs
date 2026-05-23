@@ -1,0 +1,32 @@
+NestJs Controllers.
+
+HTTP -> Hypertext Transfer Protocol
+HTTPS -> Hypertext Transfer Protocol Secure
+- Controllers handle incoming HTTP requests.
+- They define routes (e.g., GET, POST, PUT, DELETE).
+- Bridge between client and business logic (services).
+
+GET is one of the most common HTTP methods used to retrieve data from a web server.
+An HTTP POST request is used to send data to a server to create or update a resource
+An HTTP GET request is used to retrieve data from a specific resource on a server.
+An HTTP DELETE request is used to remove a specific resource from a server.
+The HTTP PUT method is used to create a new resource or replace an existing one at a specific URI.
+The HTTP PATCH method is used to apply partial modifications to a resource
+
+Importance of Controllers?
+
+- Organize API endpoints clearly and modularly.
+- Help separate concerns: routing vs business logic.
+- Make code scalable and maintainable.
+- Improve code readability with clean structure.
+
+What is Decorators?
+-> Special functions that add metadata to classes or methods.
+-> Start with @ symbol (e.g., @Controller(), @Get()).
+-> Tell NestJS how to treat the class or method.
+-> Used for routing, dependency injection, validation, etc.
+
+NextJs Cli Commands:-
+
+-> nest g controller user === For generating a user folder with controller and service.
+-> "start:dev": "nest start --watch", === catches all the changes in the server.
