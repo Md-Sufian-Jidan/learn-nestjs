@@ -1,0 +1,21 @@
+What is an API?
+-> API = Application Programming Interface.
+-> It allows two applications to talk to each other.
+-> Acts as a bridge between frontend and backend.
+
+What is a REST API?
+-> REST = Representational State Transfer.
+-> It is a type of API that follows certain rules.
+-> Uses HTTP methods like GET, POST, PUT, PATCH, DELETE.
+-> Simple, scalable and stateless communication.
+
+What is GET, POST, PUT, PATCH, DELETE?
+-> GET: Used to read or fetch data.
+-> POST: Used to create new data.
+-> PUT: Used to update existing data completely.
+-> PATCH: Used to partially update existing data.
+-> DELETE: Used to remove data.
+
+-> Organizes how clients interact with your server.
+-> Keeps code clean, structured and reusable.
+-> Makes your backend work like a service.

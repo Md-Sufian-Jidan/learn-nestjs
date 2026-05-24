@@ -1,0 +1,9 @@
+Dependency Injection(DI)
+-> It is a mechanism where the framework automatically provides the required dependencies - without creating them manually.
+
+Why DI is important?
+-> It makes the code reusable and clean
+-> It makes testing easier
+-> It promotes loose coupling (classes don't tightly depend on each other)
+-> It improves readability and maintainability
+

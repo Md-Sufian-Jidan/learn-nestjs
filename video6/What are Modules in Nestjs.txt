@@ -1,0 +1,6 @@
+What are Modules in Nestjs?
+
+-> A container where we keep related controllers, services, and providers for our application.
+-> Core part of NestJS architecture.
+-> Every NestJS app has at least one module.
+
